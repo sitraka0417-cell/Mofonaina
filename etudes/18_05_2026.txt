@@ -1,1 +1,7 @@
+<<h2>le date</h2>
 
+<h3>le titre complet</h3>
+
+<h4>le verset biblique</h4>
+
+<h5>le contenu de deux colonnes mais en une seule colonne continue</h5>
